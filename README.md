@@ -1,5 +1,5 @@
 # Online-Shopper
-We have developed this shopping website using Web Development tools as mini project during our 3rd sem
+We have developed this shopping website using Web Development tools as mini project during our 3rd sem.
 # Introduction
 Now a days the life style of the people is different. People feel uncomfortable and time consuming for going crowded markets. So, E-Shopping is a boon as it saves lot of time.
 This project basically creates the true view of how the shopping application truley work with the combination of different web tool.
